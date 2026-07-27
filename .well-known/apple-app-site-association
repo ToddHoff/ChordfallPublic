@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["37D3WYGPDW.com.possibility.mdrop"],
+        "components": [
+          { "/": "/race/*", "comment": "race join codes" }
+        ]
+      }
+    ]
+  }
+}
